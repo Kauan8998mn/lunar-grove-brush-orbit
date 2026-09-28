@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Verdant",
+      "hasCanvas": false,
+      "bodyTextLen": 7,
+      "bodyTextHash": "4671cee279d8ca0ba109deb1224d7e1749737c186043d86d19a8ca1ade8916a0",
+      "bodyTextPrefix": "Verdant",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Verdant",
+      "hasCanvas": false,
+      "bodyTextLen": 80,
+      "bodyTextHash": "1848d2da7859da9fd6688322a96e11306e22edee465cbbf046b5c7fae4d60e58",
+      "bodyTextPrefix": "VERDANT Como você quer aparecer? Só um nome. Sem conta, e-mail o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
